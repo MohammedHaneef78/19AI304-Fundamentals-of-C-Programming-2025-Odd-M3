@@ -28,7 +28,16 @@ To formulate a C program to convert a decimal number into its binary equivalent 
 ### Step 8: 
    Stop
 # Program:
+
+<img width="791" height="615" alt="iapr3-1pro" src="https://github.com/user-attachments/assets/09acdf4b-d725-44f2-93eb-da2f627edca7" />
+
+
 # Output:
+<img width="815" height="228" alt="iapr3-1out" src="https://github.com/user-attachments/assets/88a8be41-34ce-4920-9101-0ff0dfff1ed3" />
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -67,7 +76,23 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9: 
   Stop
 # Program:
+<img width="785" height="612" alt="iapr3-2 1pro" src="https://github.com/user-attachments/assets/c6245caa-9ccd-46dd-b5f3-87eb5e6bba38" />
+
+
+
+<img width="792" height="629" alt="iapr3-2 2 pro" src="https://github.com/user-attachments/assets/e9faf1dd-c8ae-4cc4-a755-c2393f9ae712" />
+
+ 
+
+
 # Output:
+<img width="822" height="341" alt="iapr3 pro" src="https://github.com/user-attachments/assets/7fb3db02-6794-4992-af7e-71f4964341ad" />
+
+
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -101,7 +126,22 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10: 
   Stop
 # Program:
+
+<img width="812" height="566" alt="iapr3-3 1 pro" src="https://github.com/user-attachments/assets/fc5477a1-b959-49c1-8daf-97e2be30e8c5" />
+
+
+
+
+
+
 # Output:
+
+
+<img width="828" height="199" alt="iapr3-3 out" src="https://github.com/user-attachments/assets/97537590-3e34-4777-a0b9-2edc9fcb8927" />
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -135,7 +175,17 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:
   Stop
 # Program:
+
+<img width="782" height="579" alt="iapr3-4 pro" src="https://github.com/user-attachments/assets/fb3ed5d0-3d7d-4401-b8d3-cdd0f4355f7f" />
+
+
+
 # Output:
+<img width="723" height="363" alt="iapr3-4 out" src="https://github.com/user-attachments/assets/80f32027-ece4-4182-8e5a-5c8a980179a8" />
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -169,7 +219,17 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8: 
   Stop
 # Program:
+<img width="787" height="609" alt="iapr3-5 1 pro" src="https://github.com/user-attachments/assets/07643397-0651-4c1d-a6e5-ab5d7573cf2c" />
+
+
+<img width="800" height="465" alt="iapr3-5 2 pro" src="https://github.com/user-attachments/assets/9b29150d-5688-4f48-9c14-5cfed847f8a3" />
+
+
 # Output:
+
+<img width="842" height="207" alt="iapr3-5 out" src="https://github.com/user-attachments/assets/dd4e69dc-f6b8-4d5f-ad95-87dfef50b486" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
